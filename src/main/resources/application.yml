@@ -1,0 +1,7 @@
+schedule: 
+  fixedDelay: 10000 
+map:
+  zoomLevel: 12
+jsonfile:
+  asset: classpath:assets.json
+  lightningstrike: classpath:lightning.json
